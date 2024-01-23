@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 <h3 align="center">A full-stack software development student at LEARN Academy</h3>
 
-- 🌱 I’m currently learning **JavaScript, Ruby/Rails, HTML, CSS, React, PostgreSQL**
+<p align="center">
+  🌱 Currently learning: **JavaScript, Ruby/Rails, HTML, CSS, React, PostgreSQL**
+</p>
 
-- 👨‍💻 All of my projects are available at [https://andrewbalink.github.io/](https://andrewbalink.github.io/)
+<p align="center">
+  👨‍💻 All of my projects are available at [andrewbalink.github.io](https://andrewbalink.github.io/)
+</p>
 
-- 📫 How to reach me **andrew.balink@yahoo.com**
+<p align="center">
+  📫 How to reach me: **[andrew.balink@yahoo.com](mailto:andrew.balink@yahoo.com)**
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
