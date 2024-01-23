@@ -2,15 +2,15 @@
 <h3 align="center">A full-stack software development student at LEARN Academy</h3>
 
 <p align="center">
-  🌱 Currently learning: **JavaScript, Ruby/Rails, HTML, CSS, React, PostgreSQL**
+  🌱 Currently learning: JavaScript, Ruby/Rails, HTML, CSS, React, PostgreSQL
 </p>
 
 <p align="center">
-  👨‍💻 All of my projects are available at [andrewbalink.github.io](https://andrewbalink.github.io/)
+  👨‍💻 All of my projects are available at https://andrewbalink.github.io/
 </p>
 
 <p align="center">
-  📫 How to reach me: **[andrew.balink@yahoo.com](mailto:andrew.balink@yahoo.com)**
+  📫 How to reach me: mailto:andrew.balink@yahoo.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
