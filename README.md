@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:andrew.balink@yahoo.com">andrew.balink@yahoo.com</a>
+  📫 How to reach me: <a href="mailto:andrewbalink.dev@gmail.com">andrew.balink@yahoo.com</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
